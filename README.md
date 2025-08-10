@@ -73,24 +73,6 @@ Travel isn’t just about getting from **point A to point B** — it’s about m
 
 ---
 
-## 📥 Installation & Setup  
-
-```bash
-# Clone the repository
-git clone https://github.com/MuhammadHamza123c/FLIGHT_AGENT.git
-cd FLIGHT_AGENT
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Add API keys in .env file
-GEMINI_API_KEY=your_gemini_key
-PIXABAY_API_KEY=your_pixabay_key
-
 ## 📸 Screenshots / Demo
 
 **Flight Booking**  
@@ -135,3 +117,30 @@ PIXABAY_API_KEY=your_pixabay_key
 
 SMTP_EMAIL=your_email
 SMTP_PASSWORD=your_password
+
+
+
+
+
+
+
+
+
+## 📥 Installation & Setup  
+
+```bash
+# Clone the repository
+git clone https://github.com/MuhammadHamza123c/FLIGHT_AGENT.git
+cd FLIGHT_AGENT
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Add API keys in .env file
+GEMINI_API_KEY=your_gemini_key
+PIXABAY_API_KEY=your_pixabay_key
+
