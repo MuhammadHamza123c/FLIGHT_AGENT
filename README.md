@@ -113,7 +113,7 @@ Travel isn’t just about getting from **point A to point B** — it’s about m
 
 
 **System Graph**
-![Graph](flight_agent/graph_image.jpeg)
+![Graph](flight_agent/graph_image.jpg)
 
 SMTP_EMAIL=your_email
 SMTP_PASSWORD=your_password
