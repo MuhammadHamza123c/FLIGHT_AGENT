@@ -75,6 +75,13 @@ Travel isn’t just about getting from **point A to point B** — it’s about m
 
 ## 📸 Screenshots / Demo
 
+
+
+**System Graph**
+![Graph](flight_agent/graph_image.jpg)
+
+
+
 **Flight Booking**  
 ![Flight Booking](flight_agent/flight.png)  
 
@@ -111,9 +118,6 @@ Travel isn’t just about getting from **point A to point B** — it’s about m
 **Email Response Confirmation**  
 ![Email Response](flight_agent/email_response.jpg)
 
-
-**System Graph**
-![Graph](flight_agent/graph_image.jpg)
 
 
 
