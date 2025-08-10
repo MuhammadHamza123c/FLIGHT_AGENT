@@ -115,8 +115,7 @@ Travel isn’t just about getting from **point A to point B** — it’s about m
 **System Graph**
 ![Graph](flight_agent/graph_image.jpg)
 
-SMTP_EMAIL=your_email
-SMTP_PASSWORD=your_password
+
 
 
 
@@ -143,4 +142,6 @@ pip install -r requirements.txt
 # Add API keys in .env file
 GEMINI_API_KEY=your_gemini_key
 PIXABAY_API_KEY=your_pixabay_key
+SMTP_EMAIL=your_email
+SMTP_PASSWORD=your_password
 
