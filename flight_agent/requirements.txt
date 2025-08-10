@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langgraph
+google-generativeai
+python-dotenv
+requests
+pillow
+pydantic
+email-validator
+python-multipart
