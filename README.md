@@ -96,28 +96,22 @@ SMTP_PASSWORD=your_password
 ## 📸 Screenshots / Demo
 
 **Flight Booking**  
-![Flight Booking](flight.png)  
+![Flight Booking](flight_agent/flight.png)  
 
 **Hotel Booking**  
-![Hotel Booking](book_hotel.png)  
+![Hotel Booking](flight_agent/book_hotel.png)  
 
 **Destination Images**  
-![Destination Images](images.png)  
+![Destination Images](flight_agent/images.png)  
 
 **Language Learning Module**  
-![Language Learning](language.png)  
+![Language Learning](flight_agent/language.png)  
 
 **Generated Travel Document**  
-![Generated Document](document.png)  
+![Generated Document](flight_agent/document.png)  
 
 **Emergency Alert System**  
-![Emergency Alert](emergency.png)  
+![Emergency Alert](flight_agent/emergency.png)  
 
 **Email Response Confirmation**  
-![Email Response](email_response.png)  
-
-
- 
-
-✔️ Automation for booking & planning.
-✔️ Built-in safety measures for emergencies.
+![Email Response](flight_agent/email_response.png)  
